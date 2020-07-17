@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head><style type="text/css">
+       <head><style type="text/css"></style>
        <meta charset="utf-8" />
     <title>facebook</title>
 </head>
