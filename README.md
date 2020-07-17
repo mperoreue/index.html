@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-       <head><style type="text/css"></style>
+       <head>
        <meta charset="utf-8" />
-    <title>facebook</title>
 </head>
 <body>
     <div id="wrapper">
