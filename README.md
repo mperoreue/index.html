@@ -1,55 +1,7 @@
 <!DOCTYPE html>
-
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head><style type="text/css">
-    body{font:100px Arial 'Times New Roman' Helvetical sans-serif;}
-    #wrapper{width:70%;
-             padding:20px;
-             color:#808080;
-             
-    }
-    #st0{padding:2px;
-         width:89%;
-    }
-    table{border-collapse:collapse;
-          color:#4800ff;
-          padding:2px;
-          border:none;
-    }
-    #lg{background-color:#4800ff;
-        color:#ffffff;
-        border:none;
-    }
-    a:link{text-decoration:none;
-           color:#0094ff;
-           margin-left:-140px;
-    }
-    a:link span{display:block;
-                background-color:#00ff21;
-                color:#ffffff;
-                margin-left:-1000px;
-                margin-right:-300px;
-    }
-    #st0 a span{border-radius:3px;
-                margin-left:100px;
-                margin-right:100px;
-    }
-    #st3,#st4{float:left;
-              margin-right:40px;
-              padding:20px;
-              font-size:1.1em/1.0em;
-              
-   
-    }
-    .tp{clear:both;
-        text-align:left;
-        margin-left:140px;
-        
-    }
-    #st2{text-align:center;}
-    #navContainer{background:#f3eba6;}
-    </style>
-    <meta charset="utf-8" />
+       <meta charset="utf-8" />
     <title>facebook</title>
 </head>
 <body>
